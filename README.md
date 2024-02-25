@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**adm077/adm077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Mohammad Israrul Haque
 
 ## 👋 Hi, I’m Mohammad Israrul haque | @adm077 |
