@@ -3,14 +3,28 @@
 <!--
 **adm077/adm077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Mohammad Israrul Haque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 Hi, I’m Mohammad Israrul haque | @adm077 |
+
+### 👀 I’m interested in learning and working with the community, open-source contribution
+
+🌱 I'm currently learning & exploring DevOps tools like Kubernetes, Docker, Ansible, AWS, Jenkins, Terraform, CI/CD, Git & GitHub
+
+💞️ I’m looking to collaborate on GitHub and open source projects related to cloud computing and cloud-native.
+
+📫 How to reach me at israr.adm@gmail.com
+
+#💻 My Skill Set :
+
+![image](https://github.com/adm077/adm007/assets/139608052/8d0c82dc-dca2-4bdd-9b87-9e7b41abcf2a)
+
+
+
+
+
+
+
+
+
+
